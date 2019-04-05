@@ -1,0 +1,14 @@
+C:\Users\KEMURI\Desktop\assignment\ista 322\Exercise\Exercise 8 C\Roulette\Roulette\bin\Debug\Roulette.exe.config
+C:\Users\KEMURI\Desktop\assignment\ista 322\Exercise\Exercise 8 C\Roulette\Roulette\bin\Debug\Roulette.exe
+C:\Users\KEMURI\Desktop\assignment\ista 322\Exercise\Exercise 8 C\Roulette\Roulette\bin\Debug\Roulette.pdb
+C:\Users\KEMURI\Desktop\assignment\ista 322\Exercise\Exercise 8 C\Roulette\Roulette\obj\Debug\Roulette.csprojAssemblyReference.cache
+C:\Users\KEMURI\Desktop\assignment\ista 322\Exercise\Exercise 8 C\Roulette\Roulette\obj\Debug\Roulette.csproj.CoreCompileInputs.cache
+C:\Users\KEMURI\Desktop\assignment\ista 322\Exercise\Exercise 8 C\Roulette\Roulette\obj\Debug\Roulette.exe
+C:\Users\KEMURI\Desktop\assignment\ista 322\Exercise\Exercise 8 C\Roulette\Roulette\obj\Debug\Roulette.pdb
+C:\Users\KEMURI\Desktop\the hub\6_Roulette\Roulette\bin\Debug\Roulette.exe.config
+C:\Users\KEMURI\Desktop\the hub\6_Roulette\Roulette\bin\Debug\Roulette.exe
+C:\Users\KEMURI\Desktop\the hub\6_Roulette\Roulette\bin\Debug\Roulette.pdb
+C:\Users\KEMURI\Desktop\the hub\6_Roulette\Roulette\obj\Debug\Roulette.csprojAssemblyReference.cache
+C:\Users\KEMURI\Desktop\the hub\6_Roulette\Roulette\obj\Debug\Roulette.csproj.CoreCompileInputs.cache
+C:\Users\KEMURI\Desktop\the hub\6_Roulette\Roulette\obj\Debug\Roulette.exe
+C:\Users\KEMURI\Desktop\the hub\6_Roulette\Roulette\obj\Debug\Roulette.pdb
